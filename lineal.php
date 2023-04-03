@@ -11,13 +11,7 @@
 	//datos con vectores
 $valoresY=array("1000","2200","1300","3200","1700","2400");
 $valoresX=array("2017-01-01","2017-01-05","2017-02-12","2017-02-17","2017-03-23","2017-03-28");
- //$j=0;
-/*	while ($ver=mysqli_fetch_row($result)) {
-		$valoresY[]=$ver[1];
-		$valoresX[]=$ver[0];
-	//	echo $valoresY[$j];echo "  ";echo $valoresX[$j]; echo "<br>";
-		$j++;
-	}*/
+
 
 	
 
