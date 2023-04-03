@@ -38,8 +38,8 @@ $valoresX=array("2017-01-01","2017-01-05","2017-02-12","2017-02-17","2017-03-23"
 
 <script type="text/javascript">
 
-	datosX=crearCadenaLineal('<?php echo $datosX ?>');
-	datosY=crearCadenaLineal('<?php echo $datosY ?>');
+	datosX=crearCadenaLineal();
+	datosY=crearCadenaLineal();
 //los dos tipos de graficas en un solo grafico
 	var lineas = {
 		x: datosX,
