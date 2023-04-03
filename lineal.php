@@ -19,8 +19,7 @@ $valoresX=array("2017-01-01","2017-01-05","2017-02-12","2017-02-17","2017-03-23"
 		$j++;
 	}*/
 
-	//$datosX=json_encode($valoresX);
-	//$datosY=json_encode($valoresY);
+	
  //echo $datosX;echo "  "; echo $datosY;echo "<br>";
  ?>
 <div id="graficaLineal"></div>
