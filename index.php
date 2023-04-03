@@ -42,6 +42,6 @@ header("Refresh:5");
 	$(document).ready(function(){
 		$('#cargaLineal').load('lineal.php');
 		$('#cargaBarras').load('barras.php');
-//		$('#cargaBarras2').load('barras0.php');
+
 	});
 </script>
