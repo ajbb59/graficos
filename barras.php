@@ -16,8 +16,8 @@ $valoresX=array("2017-01-01","2017-01-05","2017-02-12","2017-02-17","2017-03-23"
 		$valoresX[]=$ver[0];
 	}*/
 
-	$datosX=json_encode($valoresX);
-	$datosY=json_encode($valoresY);
+	//$datosX=json_encode($valoresX);
+	//$datosY=json_encode($valoresY);
  ?>
 
 <div id="graficaBarras"></div>
